@@ -1,3 +1,3 @@
 # README
 
-Complete Ruby on Rails Developer
+First test reop on Complete Ruby on Rails Developer course
